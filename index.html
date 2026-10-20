@@ -180,12 +180,13 @@ if(!opps.includes(sel))sel=opp(M.find(m=>!m.done&&m.c=="PL")||M.find(m=>m.c=="PL
 const J=u=>fetch(u).then(r=>r.ok?r.json():Promise.reject(u));
 async function load(){try{[CUP,ps,ns]=await Promise.all([J("cups.json").catch(()=>({})),J("squad.json").catch(()=>[]),J("news.json").catch(()=>[])]);
 const d=await J("api/data");sig=JSON.stringify([d.matches,d.table]);apply(d);render()}
+catch(e){$("#app").innerHTML=`<div class="card"><b>Couldn\u2019t load live data.</b><div class="note">Check that API_FOOTBALL_KEY is set in Vercel, then redeploy and refresh.</div></div>`}}
 catch(e) {
   $("app").innerHTML = `<div class="card">
     <b>Couldn't load live data.</b>
     <div class="note">${String(e.message || e)}</div>
   </div>`;
-}Check that FOOTBALLDATA_API_KEY, then redeploy and refresh.</div></div>`}}
+}>Check that FOOTBALLDATA_API_KEY, then redeploy and refresh.</div></div>`}}
 async function refresh(){try{const d=await J("api/data"),s=JSON.stringify([d.matches,d.table]);if(s==sig)return;sig=s;apply(d);const y=scrollY;render();scrollTo(0,y)}catch(_){}}
 async function h2hLoad(){const e=$("#hh"),cur=sel,m=M.find(m=>opp(m)==cur&&m.mid);if(!e)return;if(!m){e.innerHTML="";return}
 try{const j=await J("api/h2h?id="+m.mid);if(sel!=cur||!$("#hh"))return;const a=j.aggregates,bt=a.homeTeam.id==BID?a.homeTeam:a.awayTeam,ot=bt===a.homeTeam?a.awayTeam:a.homeTeam;
