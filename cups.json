@@ -1,0 +1,93 @@
+{
+ "teams": {
+  "TRO": "Tromsø",
+  "KZG": "Kauno Žalgiris",
+  "JAB": "Jablonec",
+  "GET": "Getafe",
+  "UCR": "Craiova",
+  "MON": "Monaco",
+  "PAN": "Panathinaikos"
+ },
+ "matches": [
+  [
+   "2026-08-20T19:00Z",
+   "TRO",
+   "BHA",
+   0,
+   0,
+   "CL"
+  ],
+  [
+   "2026-08-27T19:00Z",
+   "BHA",
+   "TRO",
+   4,
+   0,
+   "CL"
+  ],
+  [
+   "2026-09-16T19:00Z",
+   "MUN",
+   "BHA",
+   2,
+   3,
+   "EFL"
+  ],
+  [
+   "2026-10-15T19:00Z",
+   "BHA",
+   "KZG",
+   4,
+   0,
+   "CL"
+  ],
+  [
+   "2026-10-22T16:45Z",
+   "JAB",
+   "BHA",
+   null,
+   null,
+   "CL"
+  ],
+  [
+   "2026-10-28T19:30Z",
+   "MCI",
+   "BHA",
+   null,
+   null,
+   "EFL"
+  ],
+  [
+   "2026-11-05T20:00Z",
+   "GET",
+   "BHA",
+   null,
+   null,
+   "CL"
+  ],
+  [
+   "2026-11-26T17:45Z",
+   "BHA",
+   "UCR",
+   null,
+   null,
+   "CL"
+  ],
+  [
+   "2026-12-10T20:00Z",
+   "BHA",
+   "MON",
+   null,
+   null,
+   "CL"
+  ],
+  [
+   "2026-12-17T20:00Z",
+   "PAN",
+   "BHA",
+   null,
+   null,
+   "CL"
+  ]
+ ]
+}

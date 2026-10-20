@@ -1,0 +1,144 @@
+[
+ {
+  "id": "n7",
+  "src": "Sussex Express",
+  "when": "20 Oct",
+  "t": 8,
+  "title": "Wieffer could return this week after six games out",
+  "sum": "Hürzeler gave an update on the Dutch defender, who hurt his knee in the defeat at Chelsea in August. Seven other players remain unavailable ahead of the trips to Jablonec and Liverpool.",
+  "body": [
+   "Mats Wieffer has missed six matches since hurting his knee in the 4–3 loss at Chelsea, and Brighton are hopeful of having him back this week. The head coach said the club isn’t worried about any big issue and expects him to adapt quickly.",
+   "Still unavailable are Evan Ferguson (ankle), Stefanos Tzimas (knee), Kaoru Mitoma (thigh), Femi Azeez (thigh), Pascal Struijk (thigh), Yankuba Minteh (leg) and Zadok Yohanna. Minteh and Azeez are said to be closer to a return."
+  ],
+  "facts": [
+   "Out|7 players",
+   "Next|Thu 22 Oct",
+   "Then|Liverpool (A)"
+  ],
+  "url": "https://www.sussexexpress.co.uk/sport/football/brighton-and-hove-albion/fabian-hurzeler-issues-mats-wieffer-injury-update-after-six-match-brighton-absence-9297138"
+ },
+ {
+  "id": "n8",
+  "src": "The Stats Zone",
+  "when": "20 Oct",
+  "t": 7,
+  "title": "Jablonec v Brighton: what to expect in Czechia",
+  "sum": "Kick-off is 5:45pm UK time on Thursday. The hosts lost 3–2 at Freiburg in their Conference League opener and sit seventh in the Czech league.",
+  "body": [
+   "Brighton travel to Jablonec on Thursday 22 October with the Conference League league phase under way and a 4–0 home win over Kauno Žalgiris behind them.",
+   "Jablonec lost 3–2 away to Freiburg on the opening matchday and have also lost recently at home in the Czech league, where they sit seventh."
+  ],
+  "facts": [
+   "Kick-off|5:45pm",
+   "Competition|Conf. League",
+   "Venue|Away"
+  ],
+  "url": "https://www.thestatszone.com/jablonec-vs-brighton-preview-prediction-2026-27-uefa-conference-league-league-phase-231350"
+ },
+ {
+  "body": [
+   "Brighton were out of sight almost before Palace had settled, leading 3–0 inside ten minutes at the Amex. Diego Gómez’s goal from the halfway line was the highlight, with an own goal and a strike from Yasin Ayari completing the early blitz.",
+   "Charalampos Kostoulas added a fourth early in the second half, and a fifth arrived late on. Brighton had nine shots on target to Palace’s one."
+  ],
+  "facts": [
+   "Score|5–0",
+   "Shots on target|9–1",
+   "Possession|57–43"
+  ],
+  "src": "ESPN",
+  "sum": "Brighton were 3–0 up inside ten minutes, with an own goal and a Yasin Ayari strike either side of Diego Gómez’s long-range effort. Five different players scored.",
+  "t": 6,
+  "title": "Gómez’s halfway-line stunner sparks 5–0 rout of Palace",
+  "url": "https://www.espn.com/soccer/story/_/id/50211094/fabian-hurzeler-brighton-crystal-palace-diego-gomez-premier-league",
+  "when": "18 Oct",
+  "id": "n1"
+ },
+ {
+  "body": [
+   "After the win, the head coach told supporters not to read too much into the league table and to enjoy the night instead. Brighton stay third on 16 points.",
+   "The next two games are Jablonec away in the Conference League on Thursday, then a trip to Liverpool on Sunday 25 October."
+  ],
+  "facts": [
+   "Table|3rd",
+   "Points|16",
+   "Next|Thu 22 Oct"
+  ],
+  "src": "ESPN",
+  "sum": "The head coach urged supporters to put their phones away and simply enjoy the night. Next up: Jablonec on Thursday, then a trip to Anfield to face Liverpool.",
+  "t": 5,
+  "title": "Hürzeler tells fans to ignore the table and enjoy the win",
+  "url": "https://www.espn.com/soccer/story/_/id/50211094/fabian-hurzeler-brighton-crystal-palace-diego-gomez-premier-league",
+  "when": "18 Oct",
+  "id": "n2"
+ },
+ {
+  "body": [
+   "Georginio Rutter scored twice as Brighton opened their Conference League league phase with a 4–0 home win over Kauno Žalgiris. One of his goals survived a VAR check, and Brighton led 2–0 at the break.",
+   "The result puts Brighton in a strong early position. Next up is Jablonec away on Thursday 22 October."
+  ],
+  "facts": [
+   "Score|4–0",
+   "Rutter|2 goals",
+   "Next|Jablonec (A)"
+  ],
+  "src": "ESPN",
+  "sum": "Georginio Rutter scored twice as Brighton beat Kauno Žalgiris 4–0 in their first league-phase game, sending a message to the head coach.",
+  "t": 4,
+  "title": "Rutter’s double launches the Conference League campaign",
+  "url": "https://www.espn.com/soccer/team/_/id/331/brighton-and-hove-albion",
+  "when": "15 Oct",
+  "id": "n3"
+ },
+ {
+  "body": [
+   "Brighton won 2–0 at Sunderland on 10 October despite being reduced to ten players, with a VAR decision adding to the drama. The result kept them third in the Premier League."
+  ],
+  "facts": [
+   "Score|2–0",
+   "Venue|Away",
+   "Table|3rd"
+  ],
+  "src": "Sky Sports",
+  "sum": "A 2–0 away win, despite a VAR controversy and a player down, kept the Seagulls third in the Premier League.",
+  "t": 3,
+  "title": "Ten-man Brighton win at Sunderland to stay third",
+  "url": "https://www.skysports.com/brighton-and-hove-albion",
+  "when": "10 Oct",
+  "id": "n4"
+ },
+ {
+  "body": [
+   "Brighton’s chairman said winning the Premier League is something he dreams about and that anything is possible, with the club third in the table. The club’s chief executive separately spoke of hoping for a special run in Europe."
+  ],
+  "facts": [
+   "Table|3rd",
+   "Points|16",
+   "Played|7"
+  ],
+  "src": "Sky Sports",
+  "sum": "The chairman says he dreams of Brighton winning the league and that anything is possible, while the club’s CEO is hoping for something special in Europe.",
+  "t": 2,
+  "title": "Bloom: a Premier League title isn’t out of the question",
+  "url": "https://www.skysports.com/brighton-and-hove-albion",
+  "when": "Recent",
+  "id": "n5"
+ },
+ {
+  "body": [
+   "ESPN’s piece on Diego Gómez says he has taken advice from Lionel Messi, and ties that to the club’s challenge-the-establishment attitude this season.",
+   "Gómez scored from the halfway line in the 5–0 win over Crystal Palace on Sunday."
+  ],
+  "facts": [
+   "Number|25",
+   "Position|MID",
+   "Nation|Paraguay"
+  ],
+  "src": "ESPN",
+  "sum": "ESPN profiles the midfielder, who has taken advice from Messi as the club follows its challenge-the-establishment approach.",
+  "t": 1,
+  "title": "Diego Gómez credits advice from Lionel Messi",
+  "url": "https://www.espn.com/soccer/team/_/id/331/brighton-and-hove-albion",
+  "when": "Recent",
+  "id": "n6"
+ }
+]

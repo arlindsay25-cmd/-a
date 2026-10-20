@@ -1,0 +1,211 @@
+[
+ {
+  "name": "Bart Verbruggen",
+  "num": "1",
+  "pos": "GK",
+  "img": "players/1.jpg",
+  "fm": "1131987/bart-verbruggen"
+ },
+ {
+  "name": "Jason Steele",
+  "num": "23",
+  "pos": "GK",
+  "img": "players/23.jpg",
+  "fm": "107917/jason-steele"
+ },
+ {
+  "name": "Tom McGill",
+  "num": "38",
+  "pos": "GK",
+  "img": "players/38.jpg"
+ },
+ {
+  "name": "Jaouen Hadjam",
+  "num": "3",
+  "pos": "DEF",
+  "img": "players/3.jpg",
+  "fm": "1178324/jaouen-hadjam"
+ },
+ {
+  "name": "Pascal Struijk",
+  "num": "4",
+  "pos": "DEF",
+  "img": "players/4.jpg",
+  "fm": "796974/pascal-struijk"
+ },
+ {
+  "name": "Lewis Dunk",
+  "num": "5",
+  "pos": "DEF",
+  "img": "players/5.jpg",
+  "fm": "201690/lewis-dunk"
+ },
+ {
+  "name": "Costinha",
+  "num": "20",
+  "pos": "DEF",
+  "img": "players/20.jpg",
+  "fm": "1079456/costinha"
+ },
+ {
+  "name": "Olivier Boscagli",
+  "num": "21",
+  "pos": "DEF",
+  "img": "players/21.jpg",
+  "fm": "613715/olivier-boscagli"
+ },
+ {
+  "name": "Ferdi Kadıoğlu",
+  "num": "24",
+  "pos": "DEF",
+  "img": "players/24.jpg",
+  "fm": "774448/ferdi-kadoglu"
+ },
+ {
+  "name": "Maxim De Cuyper",
+  "num": "29",
+  "pos": "DEF",
+  "img": "players/29.jpg",
+  "fm": "1134871/maxim-de-cuyper"
+ },
+ {
+  "name": "Michael Svoboda",
+  "num": "30",
+  "pos": "DEF",
+  "img": "players/30.jpg",
+  "fm": "951921/michael-svoboda"
+ },
+ {
+  "name": "Luka Vušković",
+  "num": "44",
+  "pos": "DEF",
+  "img": "players/44.jpg",
+  "fm": "1413996/luka-vuskovic"
+ },
+ {
+  "name": "Jack Hinshelwood",
+  "num": "8",
+  "pos": "MID",
+  "img": "players/8.jpg",
+  "fm": "1251334/jack-hinshelwood"
+ },
+ {
+  "name": "Pascal Groß",
+  "num": "13",
+  "pos": "MID",
+  "img": "players/13.jpg",
+  "fm": "167008/pascal-gross"
+ },
+ {
+  "name": "Chema Andrés",
+  "num": "14",
+  "pos": "MID",
+  "img": "players/14.jpg",
+  "fm": "1586552/chema-andres"
+ },
+ {
+  "name": "Diego Gómez",
+  "num": "25",
+  "pos": "MID",
+  "img": "players/25.jpg",
+  "fm": "1354561/diego-gomez"
+ },
+ {
+  "name": "Yasin Ayari",
+  "num": "26",
+  "pos": "MID",
+  "img": "players/26.jpg",
+  "fm": "1168311/yasin-ayari"
+ },
+ {
+  "name": "Mats Wieffer",
+  "num": "27",
+  "pos": "MID",
+  "img": "players/27.jpg",
+  "fm": "970243/mats-wieffer"
+ },
+ {
+  "name": "Malick Yalcouyé",
+  "num": "35",
+  "pos": "MID",
+  "img": "players/35.jpg",
+  "fm": "1602352/malick-junior-yalcouye"
+ },
+ {
+  "name": "Matt O'Riley",
+  "num": "33",
+  "pos": "MID",
+  "img": "players/33.jpg",
+  "fm": "866686/matthew-oriley"
+ },
+ {
+  "name": "Kaoru Mitoma",
+  "num": "7",
+  "pos": "FWD",
+  "img": "players/7.jpg",
+  "fm": "862608/kaoru-mitoma"
+ },
+ {
+  "name": "Stefanos Tzimas",
+  "num": "9",
+  "pos": "FWD",
+  "img": "players/9.jpg",
+  "fm": "1423616/stefanos-tzimas"
+ },
+ {
+  "name": "Georginio Rutter",
+  "num": "10",
+  "pos": "FWD",
+  "img": "players/10.jpg",
+  "fm": "956925/georginio-rutter"
+ },
+ {
+  "name": "Yankuba Minteh",
+  "num": "11",
+  "pos": "FWD",
+  "img": "players/11.jpg",
+  "fm": "1400227/yankuba-minteh"
+ },
+ {
+  "name": "Promise David",
+  "num": "12",
+  "pos": "FWD",
+  "img": "players/12.jpg",
+  "fm": "1252132/promise-david"
+ },
+ {
+  "name": "Ibrahim Osman",
+  "num": "15",
+  "pos": "FWD",
+  "img": "players/15.jpg",
+  "fm": "1215410/ibrahim-osman"
+ },
+ {
+  "name": "Charalampos Kostoulas",
+  "num": "19",
+  "pos": "FWD",
+  "img": "players/19.jpg",
+  "fm": "1561249/charalampos-kostoulas"
+ },
+ {
+  "name": "Evan Ferguson",
+  "num": "28",
+  "pos": "FWD",
+  "img": "players/28.jpg",
+  "fm": "1068482/evan-ferguson"
+ },
+ {
+  "name": "Zadok Yohanna",
+  "num": "36",
+  "pos": "FWD",
+  "img": "players/36.jpg",
+  "fm": "1782648/zadok-yohanna"
+ },
+ {
+  "name": "Femi Azeez",
+  "num": "–",
+  "pos": "FWD",
+  "img": "",
+  "fm": "1083185/femi-azeez"
+ }
+]
