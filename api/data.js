@@ -1,5 +1,5 @@
 // API-Football server-side integration. Keep API_FOOTBALL_KEY in Vercel Environment Variables.
-const BASE = "https://v3.football.api-sports.io";
+const BASE = "https://footballdata.io/api/v1";
 const get = async (p) => {
   const key = process.env.API_FOOTBALL_KEY;
   if (!key) throw new Error("API_FOOTBALL_KEY is not configured in Vercel");
